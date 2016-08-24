@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Menschen B1</string>
+    <string name="action_help">Help</string>
+
+    <string name="lesson1_title">Lektion 1: Ihr seid einfach die Besten!</string>
+    <string name="lesson2_title">Lektion 2: Er erledigte seine Aufgaben zuverlässig</string>
+    <string name="lesson3_title">Lektion 3: Mein Beruf ist meine Leidenschaft.</string>
+    <string name="lesson4_title">Lektion 4: Obwohl ich Ihnen das erklärt habe,...</string>
+    <string name="lesson5_title">Lektion 5: Bald wird in fast jedem Haushalt ein PC stehen.</string>
+    <string name="lesson6_title">Lektion 6: Fühlen Sie sich wie zu Hause.</string>
+    <string name="lesson7_title">Lektion 7: Kann ich Ihnen helfen?</string>
+    <string name="lesson8_title">Lektion 8: Während andere lange nachdenken,...</string>
+
+    <string name="lesson_vocab">Wörter</string>
+    <string name="lesson_gramar">Audiotraining</string>
+    <string name="lesson_conversation">Kommunikation</string>
+    <string name="title_activity_words">Lektion1: Wörter</string>
+    <string name="title_activity_lesson1_grammar">Lesson1Grammar</string>
+    <string name="title_activity_lesson2_grammar">Lesson2Grammar</string>
+    <string name="title_activity_lesson1_audio">Lesson1Audio</string>
+    <string name="title_activity_lesson2_audio">Lesson2Audio</string>
+    <string name="title_activity_audio_player2">AudioPlayer2</string>
+    <string name="title_activity_book_view">BookView</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AE0B04</color>
+    <color name="colorPrimaryDark">#AE0B04</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="main_background_color">#ECEFF1</color>
+
+    <color name="lesson1_color">#FECC04</color>
+    <color name="lesson2_color">#D9CB39</color>
+    <color name="lesson3_color">#DA9143</color>
+    <color name="lesson4_color">#B5C936</color>
+    <color name="lesson5_color">#5A9E66</color>
+    <color name="lesson6_color">#298983</color>
+    <color name="lesson7_color">#0D4799</color>
+    <color name="lesson8_color">#923683</color>
+
+    <color name="lesson_main_background">#FEF7E7</color>
+
+
+    <!-- Background color for the numbers category -->
+    <color name="lesson_color">#FD8E09</color>
+    <!--Colors for the gramar layout    -->
+    <color name="grammar_background">#FEF7E7</color>
+    <color name="grammar_title_background">#F7A600</color>
+    <color name="grammar_audio_text">#F44336</color>
+
+    <color name="audio_background">#EFEBE9</color>
+
+    <color name="audio_player">#00838F    </color>
+
+    <color name="text_color">#FFFFFFFF </color>
+
+
+</resources>
